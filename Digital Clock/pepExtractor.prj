@@ -1,0 +1,5 @@
+work	"converter.vhd"
+work	"counter.vhd"
+work	"digital_clock.vhd"
+work	"seven_four.vhd"
+work	"top.vhd"

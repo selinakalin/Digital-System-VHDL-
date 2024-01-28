@@ -1,0 +1,3 @@
+vhdl isim_temp "counter.vhd"
+vhdl isim_temp "digital_clock.vhd"
+vhdl isim_temp "test_digital_clock.vhd"
