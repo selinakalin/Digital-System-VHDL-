@@ -1,0 +1,2 @@
+vhdl isim_temp "four_bit_xor.vhd"
+vhdl isim_temp "four_bit_xor_test.vhd"

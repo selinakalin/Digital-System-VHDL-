@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/ise-vhdl/ALU/alu_top_test_isim_beh.exe" -prj "C:/ise-vhdl/ALU/alu_top_test_beh.prj" "work.alu_top_test" 

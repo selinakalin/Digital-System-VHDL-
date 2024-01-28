@@ -1,0 +1,1 @@
+vhdtdtfi -prj ALU -o C:/ise-vhdl/ALU/four_bit_or.tfi -module four_bit_or -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work four_bit_or.vhd 

@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+four_bit_or instance_name (
+    .a(a), 
+    .b(b), 
+    .output(output)
+    );
+
+
