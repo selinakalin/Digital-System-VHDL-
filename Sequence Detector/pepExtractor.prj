@@ -1,0 +1,4 @@
+work	"converter.vhd"
+work	"fsm.vhd"
+work	"seven_segment.vhd"
+work	"top.vhd"

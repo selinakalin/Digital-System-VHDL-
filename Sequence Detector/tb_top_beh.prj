@@ -1,0 +1,5 @@
+vhdl work "seven_segment.vhd"
+vhdl work "fsm.vhd"
+vhdl work "converter.vhd"
+vhdl work "top.vhd"
+vhdl work "tb_top.vhd"
