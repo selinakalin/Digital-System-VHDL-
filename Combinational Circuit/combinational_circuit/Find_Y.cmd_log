@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_Y.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_Y.syr" 

@@ -1,0 +1,14 @@
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_Z.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_Z.syr" 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_Z.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_Z.syr" 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_Z.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_Z.syr" 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_Z.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_Z.syr" 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_Z.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_Z.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Find_Z.ngc Find_Z.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Find_Z_map.ncd Find_Z.ngd Find_Z.pcf 
+par -w -intstyle ise -ol high -mt off Find_Z_map.ncd Find_Z.ncd Find_Z.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Find_Z.twx Find_Z.ncd -o Find_Z.twr Find_Z.pcf 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_Z.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_Z.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Find_Z.ngc Find_Z.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Find_Z_map.ncd Find_Z.ngd Find_Z.pcf 
+par -w -intstyle ise -ol high -mt off Find_Z_map.ncd Find_Z.ncd Find_Z.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Find_Z.twx Find_Z.ncd -o Find_Z.twr Find_Z.pcf 

@@ -1,0 +1,27 @@
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_X.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_X.syr" 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_X.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_X.syr" 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_X.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_X.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Find_X.ngc Find_X.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Find_X_map.ncd Find_X.ngd Find_X.pcf 
+par -w -intstyle ise -ol high -mt off Find_X_map.ncd Find_X.ncd Find_X.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Find_X.twx Find_X.ncd -o Find_X.twr Find_X.pcf 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_X.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_X.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Find_X.ngc Find_X.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Find_X_map.ncd Find_X.ngd Find_X.pcf 
+par -w -intstyle ise -ol high -mt off Find_X_map.ncd Find_X.ncd Find_X.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Find_X.twx Find_X.ncd -o Find_X.twr Find_X.pcf 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_X.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_X.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Find_X.ngc Find_X.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Find_X_map.ncd Find_X.ngd Find_X.pcf 
+par -w -intstyle ise -ol high -mt off Find_X_map.ncd Find_X.ncd Find_X.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Find_X.twx Find_X.ncd -o Find_X.twr Find_X.pcf 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_X.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_X.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Find_X.ngc Find_X.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Find_X_map.ncd Find_X.ngd Find_X.pcf 
+par -w -intstyle ise -ol high -mt off Find_X_map.ncd Find_X.ncd Find_X.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Find_X.twx Find_X.ncd -o Find_X.twr Find_X.pcf 
+xst -intstyle ise -ifn "C:/ise-vhdl/combinational_circuit/Find_X.xst" -ofn "C:/ise-vhdl/combinational_circuit/Find_X.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 Find_X.ngc Find_X.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Find_X_map.ncd Find_X.ngd Find_X.pcf 
+par -w -intstyle ise -ol high -mt off Find_X_map.ncd Find_X.ncd Find_X.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Find_X.twx Find_X.ncd -o Find_X.twr Find_X.pcf 
