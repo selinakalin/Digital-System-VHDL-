@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/Projects/Lab6/tb_top_isim_beh.exe" -prj "C:/Xilinx/Projects/Lab6/tb_top_beh.prj" "work.tb_top" 
