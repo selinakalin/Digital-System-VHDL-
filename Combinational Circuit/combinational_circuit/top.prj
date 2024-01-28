@@ -1,0 +1,4 @@
+vhdl work "Find_Z.vhd"
+vhdl work "Find_Y.vhd"
+vhdl work "Find_X.vhd"
+vhdl work "top.vhd"

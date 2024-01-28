@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\ise-vhdl\combinational_circuit\top.ncd
+OUTFILE=C:\ise-vhdl\combinational_circuit\top.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\ise-vhdl\combinational_circuit
+LICENSE=WebPack
+USER_INFO=212868702_0_0_454
