@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/ise-vhdl/ALU/four_bit_adder.xst" -ofn "C:/ise-vhdl/ALU/four_bit_adder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-3 four_bit_adder.ngc four_bit_adder.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o four_bit_adder_map.ncd four_bit_adder.ngd four_bit_adder.pcf 
+par -w -intstyle ise -ol high -mt off four_bit_adder_map.ncd four_bit_adder.ncd four_bit_adder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml four_bit_adder.twx four_bit_adder.ncd -o four_bit_adder.twr four_bit_adder.pcf 

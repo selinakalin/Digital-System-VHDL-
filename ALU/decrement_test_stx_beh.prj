@@ -1,0 +1,2 @@
+vhdl isim_temp "decrement.vhd"
+vhdl isim_temp "decrement_test.vhd"
