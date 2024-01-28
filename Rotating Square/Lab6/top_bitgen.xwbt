@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\ise-vhdl\Lab6_son\Lab6\top.ncd
+OUTFILE=C:\ise-vhdl\Lab6_son\Lab6\top.bit
+FAMILY=Artix7
+PART=xc7a100t-3csg324
+WORKINGDIR=C:\ise-vhdl\Lab6_son\Lab6
+LICENSE=WebPack
+USER_INFO=212868702_0_0_454

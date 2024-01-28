@@ -1,0 +1,3 @@
+vhdl work "seven_four.vhd"
+vhdl work "converter.vhd"
+vhdl work "top.vhd"

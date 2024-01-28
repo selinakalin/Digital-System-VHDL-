@@ -1,0 +1,4 @@
+vhdl isim_temp "seven_four.vhd"
+vhdl isim_temp "converter.vhd"
+vhdl isim_temp "top.vhd"
+vhdl isim_temp "tb_top.vhd"
